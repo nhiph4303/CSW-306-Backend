@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F919293-C1A4-4BA9-9FF4-5F466CB92B37}|PNHanhNhi_2131209002_Lab1.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhanhnhi_2131209002_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F919293-C1A4-4BA9-9FF4-5F466CB92B37}|PNHanhNhi_2131209002_Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F919293-C1A4-4BA9-9FF4-5F466CB92B37}|PNHanhNhi_2131209002_Lab1.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhanhnhi_2131209002_lab1\\pnhanhnhi_2131209002_lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F919293-C1A4-4BA9-9FF4-5F466CB92B37}|PNHanhNhi_2131209002_Lab1.csproj|solutionrelative:pnhanhnhi_2131209002_lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PNHanhNhi_2131209002_Lab1.csproj",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab1\\PNHanhNhi_2131209002_Lab1.csproj",
+              "RelativeDocumentMoniker": "PNHanhNhi_2131209002_Lab1.csproj",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab1\\PNHanhNhi_2131209002_Lab1.csproj",
+              "RelativeToolTip": "PNHanhNhi_2131209002_Lab1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T11:42:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:40:24.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

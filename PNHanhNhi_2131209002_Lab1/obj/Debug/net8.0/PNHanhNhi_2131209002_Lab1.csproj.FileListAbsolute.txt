@@ -1,0 +1,15 @@
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\bin\Debug\net8.0\PNHanhNhi_2131209002_Lab1.exe
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\bin\Debug\net8.0\PNHanhNhi_2131209002_Lab1.deps.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\bin\Debug\net8.0\PNHanhNhi_2131209002_Lab1.runtimeconfig.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\bin\Debug\net8.0\PNHanhNhi_2131209002_Lab1.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\bin\Debug\net8.0\PNHanhNhi_2131209002_Lab1.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\PNHanhNhi_2131209002_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\PNHanhNhi_2131209002_Lab1.AssemblyInfoInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\PNHanhNhi_2131209002_Lab1.AssemblyInfo.cs
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\PNHanhNhi_2131209002_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\PNHanhNhi_2131209002_Lab1.sourcelink.json
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\PNHanhNhi_2131209002_Lab1.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\refint\PNHanhNhi_2131209002_Lab1.dll
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\PNHanhNhi_2131209002_Lab1.pdb
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\PNHanhNhi_2131209002_Lab1.genruntimeconfig.cache
+C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\PNHanhNhi_2131209002_Lab1\obj\Debug\net8.0\ref\PNHanhNhi_2131209002_Lab1.dll
