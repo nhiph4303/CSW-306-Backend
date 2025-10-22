@@ -10,13 +10,13 @@ namespace PNHNhi_2131209002_Lab2.Models
     {
         public Book BookBorrowed {  get; set; }
 
-        public BorrowTransaction (Book book, Member member) : base(member)
+        public BorrowTransaction (Member member, Book book) : base(member)
         {
             BookBorrowed = book ?? throw new ArgumentNullException(nameof(book));
         }
         public override void Execute()
         {
-            Console.WriteLine($"\n[Borrow] {Member.Name} → '{BookBorrowed.Title}'");
+            Console.WriteLine($"\n[Borrow] {Member.Name} -> '{BookBorrowed.Title}'");
 
             // check available
             if (BookBorrowed.CopiesAvailable <= 0)

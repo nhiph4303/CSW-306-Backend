@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\bookclassrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\bookclassrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +43,16 @@
       "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\pnhnhi_2131209002_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC31FCC-0857-4EF8-8FAD-F87638C385E8}|PNHNhi_2131209002_Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +62,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReturnTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\ReturnTransaction.cs",
-              "RelativeDocumentMoniker": "Models\\ReturnTransaction.cs",
-              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\ReturnTransaction.cs",
-              "RelativeToolTip": "Models\\ReturnTransaction.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T05:40:00.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BorrowTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\BorrowTransaction.cs",
-              "RelativeDocumentMoniker": "Models\\BorrowTransaction.cs",
-              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\BorrowTransaction.cs",
-              "RelativeToolTip": "Models\\BorrowTransaction.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwBsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T05:39:47.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BookClassRecord.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\BookClassRecord.cs",
+              "RelativeDocumentMoniker": "Models\\BookClassRecord.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\BookClassRecord.cs",
+              "RelativeToolTip": "Models\\BookClassRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:47:44.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Models\\Transaction.cs",
               "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Transaction.cs",
               "RelativeToolTip": "Models\\Transaction.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T05:34:08.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T05:34:08.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PremiumMember.cs",
               "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\PremiumMember.cs",
               "RelativeDocumentMoniker": "Models\\PremiumMember.cs",
               "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\PremiumMember.cs",
               "RelativeToolTip": "Models\\PremiumMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T04:25:38.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T04:25:38.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "Models\\Member.cs",
-              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Member.cs",
-              "RelativeToolTip": "Models\\Member.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T03:23:23.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
               "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwFUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T03:19:30.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwF0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:23:23.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReturnTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\ReturnTransaction.cs",
+              "RelativeDocumentMoniker": "Models\\ReturnTransaction.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\ReturnTransaction.cs",
+              "RelativeToolTip": "Models\\ReturnTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:40:00.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv7EAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T01:41:16.075Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryCard.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\LibraryCard.cs",
+              "RelativeToolTip": "Models\\LibraryCard.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:38:43.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\NotificationService.cs",
+              "RelativeToolTip": "Models\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:11:18.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "Models\\Library.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\Library.cs",
+              "RelativeToolTip": "Models\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:06:19.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Models\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\IPrintable.cs",
+              "RelativeToolTip": "Models\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:53:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMemberActions.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\IMemberActions.cs",
+              "RelativeDocumentMoniker": "Models\\IMemberActions.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\IMemberActions.cs",
+              "RelativeToolTip": "Models\\IMemberActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:54:43.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BorrowTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\BorrowTransaction.cs",
+              "RelativeDocumentMoniker": "Models\\BorrowTransaction.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHNhi_2131209002_Lab2\\Models\\BorrowTransaction.cs",
+              "RelativeToolTip": "Models\\BorrowTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:39:47.25Z"
             }
           ]
         }

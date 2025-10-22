@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PNHNhi_2131209002_Lab2.Models
 {
-    public class Book
+    public class Book : IPrintable
     {
         private string isbn;
         private string title;
@@ -98,6 +98,11 @@ namespace PNHNhi_2131209002_Lab2.Models
         public void DisplayInfo()
         {
             Console.WriteLine($"ISBN:{ISBN},Title:{Title}, Author:{Author}, Year:{Year}, CopiesAvailble:{copiesAvailable}");
+        }
+
+        public void PrintDetails()
+        {
+            Console.WriteLine($"📘 {Title} by {Author} | ISBN: {ISBN} | Year: {Year} | Copies: {CopiesAvailable}");
         }
     }
 }

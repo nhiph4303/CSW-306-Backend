@@ -19,10 +19,29 @@ namespace PNHNhi_2131209002_Lab2.Models
             this.MaxBooksAllowed = 10;
         }
 
+        public override void BorrowBook(Book book)
+        {
+            Console.WriteLine($"\n[{Name}] (Premium) borrowing '{book.Title}'...");
+
+            if (DateTime.Now > MembershipExpiry)
+            {
+                Console.WriteLine($"Membership for {Name} has expired!");
+                return;
+            }
+
+            base.BorrowBook(book); //call default logic in member
+        }
+
+        public override void ReturnBook(Book book)
+        {
+            Console.WriteLine($"\n[{Name}] (Premium) returning '{book.Title}'...");
+            base.ReturnBook(book);
+        }
+
         public override void DisplayInfo()
         {
             base.DisplayInfo();
-            Console.WriteLine($"[Premium] Expiry: {MembershipExpiry:yyyy-MM-dd} | MaxBooksAllowed : {MaxBooksAllowed}");
+            Console.WriteLine($"Membership Expiry: {MembershipExpiry:d}");
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PNHNhi_2131209002_Lab2.Models
 {
-    public class Member
+    public class Member : IPrintable, IMemberActions
     {
         private string memberID;
         private string name;
@@ -72,6 +72,50 @@ namespace PNHNhi_2131209002_Lab2.Models
         public virtual void DisplayInfo()
         {
             Console.WriteLine($"Member ID: {MemberID}, Name: {Name}, Email: {Email}, Max Books: {MaxBooksAllowed}, Borrow: {BorrowedBooks.Count}");
+        }
+
+        //borrow
+        public virtual void BorrowBook(Book book)
+        {
+            Console.WriteLine($"\n[{Name}] borrowing '{book.Title}'...");
+
+            if (book.CopiesAvailable <= 0)
+            {
+                Console.WriteLine("Book is out of stock!");
+                return;
+            }
+
+            if (BorrowedBooks.Count >= MaxBooksAllowed)
+            {
+                Console.WriteLine($"{Name} has reached borrowing limit ({MaxBooksAllowed}).");
+                return;
+            }
+
+            BorrowedBooks.Add(book);
+            book.CopiesAvailable--;
+            Console.WriteLine($"{Name} successfully borrowed '{book.Title}'. Remaining: {book.CopiesAvailable}");
+        }
+
+        //return
+        public virtual void ReturnBook(Book book)
+        {
+            Console.WriteLine($"\n[{Name}] returning '{book.Title}'...");
+
+            if (!BorrowedBooks.Contains(book))
+            {
+                Console.WriteLine("Cannot return a book not borrowed.");
+                return;
+            }
+
+            BorrowedBooks.Remove(book);
+            book.CopiesAvailable++;
+            Console.WriteLine($"{book.Title}' returned successfully. Now available: {book.CopiesAvailable}");
+        }
+
+        //in detail
+        public void PrintDetails()
+        {
+            DisplayInfo();
         }
     }
 }

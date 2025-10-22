@@ -11,14 +11,14 @@ namespace PNHNhi_2131209002_Lab2.Models
 
         public Book BookReturned { get; set; }
 
-        public ReturnTransaction (Book book, Member member) : base(member)
+        public ReturnTransaction (Member member, Book book) : base(member)
         {
             BookReturned = book ?? throw new ArgumentNullException(nameof(book));
         }
 
         public override void Execute()
         {
-            Console.WriteLine($"\n[Return] {Member.Name} → '{BookReturned.Title}'");
+            Console.WriteLine($"\n[Return] {Member.Name} -> '{BookReturned.Title}'");
 
             // check actually borrowed
             if (!Member.BorrowedBooks.Contains(BookReturned)) {
