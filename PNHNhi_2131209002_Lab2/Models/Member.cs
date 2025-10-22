@@ -11,8 +11,6 @@ namespace PNHNhi_2131209002_Lab2.Models
         private string memberID;
         private string name;
         private string email;
-        private int maxBooksAllowed;
-        private List<Book> borrwedBooks;
 
         public string MemberID
         {
@@ -23,7 +21,7 @@ namespace PNHNhi_2131209002_Lab2.Models
                 {
                     throw new ArgumentException("Member can not empty!");
                 }
-                memberID = value;
+                memberID = value.Trim();
             }
         }
 
@@ -36,7 +34,7 @@ namespace PNHNhi_2131209002_Lab2.Models
                 {
                     throw new ArgumentException("Name can not be empty!");
                 }
-                name = value;
+                name = value.Trim();
             }
         }
 
@@ -49,13 +47,31 @@ namespace PNHNhi_2131209002_Lab2.Models
                 {
                     throw new ArgumentException("Email can not be empty!");
                 }
-                email = value;
+                if (!value.Contains("@"))
+                {
+                    throw new ArgumentException("Email is invalid (must contain @).");
+                }
+                email = value.Trim();
             }
         }
 
-        public void DisplayInfo()
-        {
+        // max and list
+        public int MaxBooksAllowed { get; set; } = 3;
 
+        public List<Book> BorrowedBooks { get; } = new List<Book>();
+
+        public Member(string memberID, string name, string email)
+        {
+            this.MemberID = memberID;
+            this.Name = name;
+            this.Email = email;
+        }
+
+        public Member() {}
+
+        public virtual void DisplayInfo()
+        {
+            Console.WriteLine($"Member ID: {MemberID}, Name: {Name}, Email: {Email}, Max Books: {MaxBooksAllowed}, Borrow: {BorrowedBooks.Count}");
         }
     }
 }
