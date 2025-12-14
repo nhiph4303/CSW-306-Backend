@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-4">
+        <div class="card-login shadow-sm">
+            <div class="card-header bg-primary text-white text-center">
+                <h4>Login</h4>
+                <h6>username: nhi, password: Nhi123</h6>
+                <h6>username: nhi2, password: Nhi123</h6>
+            </div>
+            <div class="card-body">
+                <form id="loginForm">
+                    <div class="form-group mb-3">
+                        <label for="username">Username</label>
+                        <input type="text" id="username" class="form-control" placeholder="Enter username" required />
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" class="form-control" placeholder="Enter password" required />
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Login</button>
+                </form>
+                <div id="errorMessage" class="text-danger mt-2" style="display:none;"></div>
+                <div class="text-center mt-3">
+                    <span class="text-muted">Don't have an account?</span><br />
+                    <a href="/account/register" class="btn btn-outline-secondary btn-sm mt-2">
+                        Register
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById("loginForm").addEventListener("submit", async function (event) {
+            event.preventDefault();
+
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+
+            try {
+                const response = await fetch("/account/login", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ username, password })
+                });
+
+                if (!response.ok) {
+                    document.getElementById("errorMessage").style.display = "block";
+                    document.getElementById("errorMessage").innerText = "Invalid login credentials.";
+                    return;
+                }
+
+                const data = await response.json();
+                localStorage.setItem("jwt", data.token); 
+                window.location.href = "/Chat/Index"; 
+            } catch (err) {
+                console.error("Login error:", err);
+                document.getElementById("errorMessage").style.display = "block";
+                document.getElementById("errorMessage").innerText = "Server error. Please try again.";
+            }
+        });
+    </script>
+}

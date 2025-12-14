@@ -1,0 +1,794 @@
+2025-12-14 10:30:16.844 +07:00 [INF] User profile is available. Using 'C:\Users\hanie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-14 10:30:17.102 +07:00 [INF] Now listening on: https://localhost:7264
+2025-12-14 10:30:17.102 +07:00 [INF] Now listening on: http://localhost:5110
+2025-12-14 10:30:17.178 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-14 10:30:17.179 +07:00 [INF] Hosting environment: Development
+2025-12-14 10:30:17.179 +07:00 [INF] Content root path: C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+2025-12-14 10:30:17.627 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:30:17.734 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:30:17.748 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:30:17.862 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:30:17.909 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 48.3493ms.
+2025-12-14 10:30:17.914 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 165.2421ms
+2025-12-14 10:30:17.915 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:30:17.921 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 295.2978ms
+2025-12-14 10:30:17.940 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:30:17.943 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 3.2562ms
+2025-12-14 10:30:18.549 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:30:18.571 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.6771ms
+2025-12-14 10:30:23.961 +07:00 [INF] User profile is available. Using 'C:\Users\hanie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-14 10:30:24.249 +07:00 [INF] Now listening on: https://localhost:7264
+2025-12-14 10:30:24.249 +07:00 [INF] Now listening on: http://localhost:5110
+2025-12-14 10:30:24.328 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-14 10:30:24.329 +07:00 [INF] Hosting environment: Development
+2025-12-14 10:30:24.329 +07:00 [INF] Content root path: C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+2025-12-14 10:30:24.943 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:30:25.048 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:30:25.060 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:30:25.138 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:30:25.183 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 45.5976ms.
+2025-12-14 10:30:25.186 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 126.2979ms
+2025-12-14 10:30:25.187 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:30:25.193 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 250.8525ms
+2025-12-14 10:30:25.210 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:30:25.210 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:30:25.215 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 4.5025ms
+2025-12-14 10:30:25.233 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.7196ms
+2025-12-14 10:30:52.236 +07:00 [INF] User profile is available. Using 'C:\Users\hanie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-14 10:30:52.524 +07:00 [INF] Now listening on: https://localhost:7264
+2025-12-14 10:30:52.525 +07:00 [INF] Now listening on: http://localhost:5110
+2025-12-14 10:30:52.600 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-14 10:30:52.600 +07:00 [INF] Hosting environment: Development
+2025-12-14 10:30:52.601 +07:00 [INF] Content root path: C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+2025-12-14 10:30:53.123 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:30:53.224 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:30:53.236 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:30:53.336 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:30:53.398 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 62.0485ms.
+2025-12-14 10:30:53.404 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 167.1006ms
+2025-12-14 10:30:53.405 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:30:53.411 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 288.8725ms
+2025-12-14 10:30:53.419 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:30:53.419 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:30:53.423 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 3.8498ms
+2025-12-14 10:30:53.446 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.1888ms
+2025-12-14 10:31:18.388 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:31:18.402 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:31:18.403 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:31:18.420 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:31:18.425 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 4.871ms.
+2025-12-14 10:31:18.425 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 21.8177ms
+2025-12-14 10:31:18.425 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:31:18.426 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 37.6424ms
+2025-12-14 10:31:18.454 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:31:18.454 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:31:18.456 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 1.0886ms
+2025-12-14 10:31:18.472 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 17.6917ms
+2025-12-14 10:31:20.596 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:31:20.602 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:31:20.603 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:31:20.629 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:31:20.630 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 1.4069ms.
+2025-12-14 10:31:20.630 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 27.4698ms
+2025-12-14 10:31:20.630 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:31:20.630 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 34.5963ms
+2025-12-14 10:31:20.665 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:31:20.666 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:31:20.666 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.5484ms
+2025-12-14 10:31:20.675 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 9.3069ms
+2025-12-14 10:40:10.849 +07:00 [INF] User profile is available. Using 'C:\Users\hanie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-14 10:40:11.048 +07:00 [INF] Now listening on: https://localhost:7264
+2025-12-14 10:40:11.049 +07:00 [INF] Now listening on: http://localhost:5110
+2025-12-14 10:40:11.260 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-14 10:40:11.261 +07:00 [INF] Hosting environment: Development
+2025-12-14 10:40:11.261 +07:00 [INF] Content root path: C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+2025-12-14 10:40:11.622 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:40:11.721 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:40:11.732 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:40:11.811 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:40:11.865 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 49.3275ms.
+2025-12-14 10:40:11.873 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 140.1919ms
+2025-12-14 10:40:11.874 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:40:11.883 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 262.8272ms
+2025-12-14 10:40:11.887 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:40:11.888 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:40:11.891 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 3.8114ms
+2025-12-14 10:40:11.910 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.1095ms
+2025-12-14 10:42:05.455 +07:00 [INF] User profile is available. Using 'C:\Users\hanie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-14 10:42:05.674 +07:00 [INF] Now listening on: https://localhost:7264
+2025-12-14 10:42:05.675 +07:00 [INF] Now listening on: http://localhost:5110
+2025-12-14 10:42:05.823 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-14 10:42:05.823 +07:00 [INF] Hosting environment: Development
+2025-12-14 10:42:05.823 +07:00 [INF] Content root path: C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+2025-12-14 10:42:06.135 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:42:06.242 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:42:06.252 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:42:06.343 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:42:06.392 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 45.6548ms.
+2025-12-14 10:42:06.402 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 148.9206ms
+2025-12-14 10:42:06.402 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:42:06.411 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 284.3073ms
+2025-12-14 10:42:06.421 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:42:06.421 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:42:06.426 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 4.1324ms
+2025-12-14 10:42:06.446 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 24.1073ms
+2025-12-14 10:42:14.100 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/account/register - null null
+2025-12-14 10:42:14.119 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:42:14.125 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:42:14.149 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Register.cshtml.
+2025-12-14 10:42:14.161 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Register.cshtml executed in 13.2379ms.
+2025-12-14 10:42:14.161 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 36.1214ms
+2025-12-14 10:42:14.161 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:42:14.162 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/account/register - 200 null text/html; charset=utf-8 61.7312ms
+2025-12-14 10:42:14.230 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:42:14.230 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:42:14.231 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 1.0905ms
+2025-12-14 10:42:14.246 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.5633ms
+2025-12-14 10:42:39.107 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-12-14 10:42:39.113 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 5.2817ms
+2025-12-14 10:42:39.114 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-12-14 10:44:47.443 +07:00 [INF] User profile is available. Using 'C:\Users\hanie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-14 10:44:47.686 +07:00 [INF] Now listening on: https://localhost:7264
+2025-12-14 10:44:47.687 +07:00 [INF] Now listening on: http://localhost:5110
+2025-12-14 10:44:47.772 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-14 10:44:47.773 +07:00 [INF] Hosting environment: Development
+2025-12-14 10:44:47.773 +07:00 [INF] Content root path: C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+2025-12-14 10:44:48.998 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/account/register - null null
+2025-12-14 10:44:49.097 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:44:49.108 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:44:49.194 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Register.cshtml.
+2025-12-14 10:44:49.238 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Register.cshtml executed in 44.4459ms.
+2025-12-14 10:44:49.242 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 133.107ms
+2025-12-14 10:44:49.242 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:44:49.246 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/account/register - 200 null text/html; charset=utf-8 249.6358ms
+2025-12-14 10:44:49.308 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-12-14 10:44:49.308 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:44:49.312 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 4.1375ms
+2025-12-14 10:44:49.312 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-12-14 10:44:49.312 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 4.7832ms
+2025-12-14 10:44:49.623 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:44:49.652 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.0711ms
+2025-12-14 10:44:58.546 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/account/register - null null
+2025-12-14 10:44:58.561 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:44:58.561 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:44:58.582 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Register.cshtml.
+2025-12-14 10:44:58.588 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Register.cshtml executed in 6.4628ms.
+2025-12-14 10:44:58.589 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 27.4913ms
+2025-12-14 10:44:58.589 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:44:58.590 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/account/register - 200 null text/html; charset=utf-8 43.1289ms
+2025-12-14 10:44:58.649 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-12-14 10:44:58.649 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 0.688ms
+2025-12-14 10:44:58.650 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-12-14 10:44:58.656 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:44:58.656 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:44:58.656 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.894ms
+2025-12-14 10:44:58.669 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.2752ms
+2025-12-14 10:47:19.680 +07:00 [INF] User profile is available. Using 'C:\Users\hanie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-14 10:47:19.901 +07:00 [INF] Now listening on: https://localhost:7264
+2025-12-14 10:47:19.901 +07:00 [INF] Now listening on: http://localhost:5110
+2025-12-14 10:47:20.053 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-14 10:47:20.054 +07:00 [INF] Hosting environment: Development
+2025-12-14 10:47:20.054 +07:00 [INF] Content root path: C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+2025-12-14 10:47:20.255 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/account/register - null null
+2025-12-14 10:47:20.366 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:47:20.378 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:47:20.502 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Register.cshtml.
+2025-12-14 10:47:20.538 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Register.cshtml executed in 36.8368ms.
+2025-12-14 10:47:20.545 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 166.546ms
+2025-12-14 10:47:20.546 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:47:20.550 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/account/register - 200 null text/html; charset=utf-8 296.3692ms
+2025-12-14 10:47:20.618 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-12-14 10:47:20.618 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:47:20.621 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 2.974ms
+2025-12-14 10:47:20.622 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 3.471ms
+2025-12-14 10:47:20.622 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-12-14 10:47:20.918 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:47:20.942 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 23.7782ms
+2025-12-14 10:47:34.028 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/account/register - application/json 35
+2025-12-14 10:47:34.035 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:47:34.053 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ChatApplication.Dtos.RegisterDto) on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:47:36.394 +07:00 [INF] Executed DbCommand (102ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-12-14 10:47:36.454 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-12-14 10:47:36.470 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 2416.4906ms
+2025-12-14 10:47:36.471 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:47:36.486 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/account/register - 400 null application/json; charset=utf-8 2457.8806ms
+2025-12-14 10:48:20.265 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/account/register - application/json 38
+2025-12-14 10:48:20.266 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:48:20.266 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ChatApplication.Dtos.RegisterDto) on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:48:20.436 +07:00 [INF] Executed DbCommand (20ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-12-14 10:48:20.439 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-12-14 10:48:20.440 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 173.3257ms
+2025-12-14 10:48:20.440 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:48:20.441 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/account/register - 400 null application/json; charset=utf-8 175.6314ms
+2025-12-14 10:50:38.138 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/account/register - application/json 38
+2025-12-14 10:50:38.138 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:50:38.139 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ChatApplication.Dtos.RegisterDto) on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:50:38.166 +07:00 [INF] Executed DbCommand (6ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-12-14 10:50:38.351 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-12-14 10:50:38.619 +07:00 [INF] Executed DbCommand (22ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14);
+2025-12-14 10:50:38.713 +07:00 [INF] Executed DbCommand (9ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2025-12-14 10:50:38.753 +07:00 [INF] Executed DbCommand (6ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2025-12-14 10:50:38.772 +07:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2025-12-14 10:50:38.823 +07:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-12-14 10:50:38.826 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 686.8854ms
+2025-12-14 10:50:38.826 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:50:38.826 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/account/register - 200 null application/json; charset=utf-8 688.0758ms
+2025-12-14 10:50:38.848 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Index - null null
+2025-12-14 10:50:38.855 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:50:38.857 +07:00 [INF] Route matched with {action = "Index", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:50:38.859 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Index.cshtml.
+2025-12-14 10:50:38.876 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Index.cshtml executed in 17.8249ms.
+2025-12-14 10:50:38.876 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Index (ChatApplication) in 19.0575ms
+2025-12-14 10:50:38.876 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:50:38.876 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Index - 200 null text/html; charset=utf-8 28.2632ms
+2025-12-14 10:50:38.939 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-12-14 10:50:38.940 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 0.7697ms
+2025-12-14 10:50:38.940 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-12-14 10:50:38.949 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:50:38.950 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.885ms
+2025-12-14 10:50:39.196 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:50:39.210 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.9121ms
+2025-12-14 10:50:39.236 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:50:39.304 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:50:39.312 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:50:39.313 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 76.3874ms
+2025-12-14 10:50:39.722 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=DuOt5ZluxKqGFT2_hzqhrA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - null null
+2025-12-14 10:50:39.723 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:50:39.799 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - null null
+2025-12-14 10:50:39.799 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - 404 0 null 0.6731ms
+2025-12-14 10:50:39.799 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/api/Chat/messages/broadcast, Response status code: 404
+2025-12-14 10:51:19.095 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Index - null null
+2025-12-14 10:51:19.099 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:51:19.099 +07:00 [INF] Route matched with {action = "Index", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:51:19.101 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Index.cshtml.
+2025-12-14 10:51:19.103 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Index.cshtml executed in 1.7281ms.
+2025-12-14 10:51:19.103 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Index (ChatApplication) in 3.3652ms
+2025-12-14 10:51:19.103 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:51:19.103 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Index - 200 null text/html; charset=utf-8 8.2481ms
+2025-12-14 10:51:19.149 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:51:19.149 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:51:19.150 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.488ms
+2025-12-14 10:51:19.156 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.5785ms
+2025-12-14 10:51:19.414 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:51:19.416 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:51:19.418 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:51:19.420 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:51:19.425 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 6.1721ms.
+2025-12-14 10:51:19.425 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 7.0056ms
+2025-12-14 10:51:19.425 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:51:19.426 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 11.7209ms
+2025-12-14 10:51:19.451 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:51:19.451 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:51:19.451 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.4297ms
+2025-12-14 10:51:19.456 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.2837ms
+2025-12-14 10:51:19.478 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/favicon.ico - null null
+2025-12-14 10:51:19.478 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/favicon.ico - 404 0 null 0.5436ms
+2025-12-14 10:51:19.478 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/favicon.ico, Response status code: 404
+2025-12-14 10:51:32.689 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/account/login - application/json 38
+2025-12-14 10:51:32.690 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Login (ChatApplication)'
+2025-12-14 10:51:32.696 +07:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(ChatApplication.Dtos.LoginDto) on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:51:32.737 +07:00 [INF] Executed DbCommand (10ms) [Parameters=[@__ToLower_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE LOWER([a].[UserName]) = @__ToLower_0
+2025-12-14 10:51:32.894 +07:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-12-14 10:51:32.894 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Login (ChatApplication) in 198.1993ms
+2025-12-14 10:51:32.894 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Login (ChatApplication)'
+2025-12-14 10:51:32.894 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/account/login - 200 null application/json; charset=utf-8 205.2946ms
+2025-12-14 10:51:32.947 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Index - null null
+2025-12-14 10:51:32.949 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:51:32.950 +07:00 [INF] Route matched with {action = "Index", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:51:32.950 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Index.cshtml.
+2025-12-14 10:51:32.952 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Index.cshtml executed in 1.612ms.
+2025-12-14 10:51:32.952 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Index (ChatApplication) in 2.2852ms
+2025-12-14 10:51:32.952 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:51:32.952 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Index - 200 null text/html; charset=utf-8 5.6195ms
+2025-12-14 10:51:32.992 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:51:32.992 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:51:32.992 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:51:32.993 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:51:32.993 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:51:32.993 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 1.2566ms
+2025-12-14 10:51:32.993 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.7907ms
+2025-12-14 10:51:32.997 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.2673ms
+2025-12-14 10:51:32.998 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=noknN0eEYLB1GC_io5wm2g&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDkyLCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.vVjWcVpIQj-d890y1jZ84etW8h4Kpb0drKIg9TmLg9Q - null null
+2025-12-14 10:51:32.999 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:51:33.253 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - null null
+2025-12-14 10:51:33.254 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - 404 0 null 1.3779ms
+2025-12-14 10:51:33.255 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/api/Chat/messages/broadcast, Response status code: 404
+2025-12-14 10:51:38.531 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:51:38.532 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=noknN0eEYLB1GC_io5wm2g&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDkyLCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.vVjWcVpIQj-d890y1jZ84etW8h4Kpb0drKIg9TmLg9Q - 200 null null 5533.631ms
+2025-12-14 10:51:38.535 +07:00 [INF] Connection id "0HNHQODTR1P9T", Request id "0HNHQODTR1P9T:00000019": the application completed without reading the entire request body.
+2025-12-14 10:51:38.537 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:51:38.540 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:51:38.540 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:51:38.541 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:51:38.542 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 1.4746ms.
+2025-12-14 10:51:38.543 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 2.2596ms
+2025-12-14 10:51:38.543 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:51:38.543 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 5.6266ms
+2025-12-14 10:51:38.574 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:51:38.574 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:51:38.575 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.3785ms
+2025-12-14 10:51:38.583 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 8.591ms
+2025-12-14 10:52:13.065 +07:00 [INF] User profile is available. Using 'C:\Users\hanie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-14 10:52:13.274 +07:00 [INF] Now listening on: https://localhost:7264
+2025-12-14 10:52:13.275 +07:00 [INF] Now listening on: http://localhost:5110
+2025-12-14 10:52:13.375 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-14 10:52:13.376 +07:00 [INF] Hosting environment: Development
+2025-12-14 10:52:13.376 +07:00 [INF] Content root path: C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+2025-12-14 10:52:13.497 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:52:13.606 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:52:13.618 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:52:13.733 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:52:13.776 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 42.4084ms.
+2025-12-14 10:52:13.781 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 162.5591ms
+2025-12-14 10:52:13.782 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:52:13.787 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 291.4481ms
+2025-12-14 10:52:13.870 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:52:13.870 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:52:13.875 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 4.7685ms
+2025-12-14 10:52:13.902 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.3154ms
+2025-12-14 10:52:17.286 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/account/register - null null
+2025-12-14 10:52:17.298 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:52:17.302 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:52:17.318 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Register.cshtml.
+2025-12-14 10:52:17.327 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Register.cshtml executed in 10.2595ms.
+2025-12-14 10:52:17.327 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 25.4666ms
+2025-12-14 10:52:17.327 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:52:17.328 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/account/register - 200 null text/html; charset=utf-8 41.6516ms
+2025-12-14 10:52:17.355 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:52:17.355 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:52:17.356 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.8859ms
+2025-12-14 10:52:17.374 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 18.891ms
+2025-12-14 10:52:33.429 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/account/register - application/json 39
+2025-12-14 10:52:33.434 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:52:33.455 +07:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ChatApplication.Dtos.RegisterDto) on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:52:35.426 +07:00 [INF] Executed DbCommand (75ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-12-14 10:52:35.590 +07:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-12-14 10:52:35.872 +07:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14);
+2025-12-14 10:52:35.949 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2025-12-14 10:52:35.988 +07:00 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2025-12-14 10:52:36.000 +07:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2025-12-14 10:52:36.041 +07:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-12-14 10:52:36.049 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Register (ChatApplication) in 2594.3911ms
+2025-12-14 10:52:36.049 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Register (ChatApplication)'
+2025-12-14 10:52:36.056 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/account/register - 200 null application/json; charset=utf-8 2627.3777ms
+2025-12-14 10:52:36.068 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Index - null null
+2025-12-14 10:52:36.071 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:52:36.072 +07:00 [INF] Route matched with {action = "Index", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:52:36.074 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Index.cshtml.
+2025-12-14 10:52:36.084 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Index.cshtml executed in 10.7181ms.
+2025-12-14 10:52:36.085 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Index (ChatApplication) in 12.0991ms
+2025-12-14 10:52:36.085 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:52:36.085 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Index - 200 null text/html; charset=utf-8 17.2598ms
+2025-12-14 10:52:36.119 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:52:36.119 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:52:36.119 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:52:36.120 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.5657ms
+2025-12-14 10:52:36.126 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.0319ms
+2025-12-14 10:52:36.213 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:52:36.222 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:52:36.223 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 103.9862ms
+2025-12-14 10:52:36.228 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=UiAVB23lmt8IrwxO0aggwA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxNTYsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.MUpZKDjsFXpmXShv-1LbqzPUoDoRooux5kcz-E7ucfQ - null null
+2025-12-14 10:52:36.229 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:52:36.260 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - null null
+2025-12-14 10:52:36.262 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - 404 0 null 2.6276ms
+2025-12-14 10:52:36.264 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/api/Chat/messages/broadcast, Response status code: 404
+2025-12-14 10:52:38.976 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Account/Login - null null
+2025-12-14 10:52:38.979 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:52:38.979 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:52:38.979 +07:00 [INF] Route matched with {action = "Index", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:52:38.980 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=UiAVB23lmt8IrwxO0aggwA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxNTYsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.MUpZKDjsFXpmXShv-1LbqzPUoDoRooux5kcz-E7ucfQ - 200 null null 2751.8545ms
+2025-12-14 10:52:38.980 +07:00 [INF] Executing ViewResult, running view ~/Views/Account/Login.cshtml.
+2025-12-14 10:52:38.982 +07:00 [INF] Connection id "0HNHQOGL78M63", Request id "0HNHQOGL78M63:00000017": the application completed without reading the entire request body.
+2025-12-14 10:52:38.982 +07:00 [INF] Executed ViewResult - view ~/Views/Account/Login.cshtml executed in 1.9852ms.
+2025-12-14 10:52:38.982 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Index (ChatApplication) in 2.6844ms
+2025-12-14 10:52:38.982 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Index (ChatApplication)'
+2025-12-14 10:52:38.982 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Account/Login - 200 null text/html; charset=utf-8 6.3763ms
+2025-12-14 10:52:39.014 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:52:39.014 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:52:39.015 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.476ms
+2025-12-14 10:52:39.022 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.6464ms
+2025-12-14 10:53:12.422 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/account/login - application/json 39
+2025-12-14 10:53:12.423 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.AuthController.Login (ChatApplication)'
+2025-12-14 10:53:12.431 +07:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(ChatApplication.Dtos.LoginDto) on controller ChatApplication.Controllers.AuthController (ChatApplication).
+2025-12-14 10:53:12.550 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[@__ToLower_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE LOWER([a].[UserName]) = @__ToLower_0
+2025-12-14 10:53:12.692 +07:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-12-14 10:53:12.692 +07:00 [INF] Executed action ChatApplication.Controllers.AuthController.Login (ChatApplication) in 260.7018ms
+2025-12-14 10:53:12.692 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.AuthController.Login (ChatApplication)'
+2025-12-14 10:53:12.693 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/account/login - 200 null application/json; charset=utf-8 270.5352ms
+2025-12-14 10:53:12.707 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Index - null null
+2025-12-14 10:53:12.711 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:53:12.711 +07:00 [INF] Route matched with {action = "Index", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:53:12.712 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Index.cshtml.
+2025-12-14 10:53:12.713 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Index.cshtml executed in 0.9329ms.
+2025-12-14 10:53:12.713 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Index (ChatApplication) in 1.5019ms
+2025-12-14 10:53:12.713 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:53:12.713 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Index - 200 null text/html; charset=utf-8 5.6662ms
+2025-12-14 10:53:12.738 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:53:12.738 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:53:12.738 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:53:12.739 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.3651ms
+2025-12-14 10:53:12.739 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:53:12.739 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:53:12.739 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 1.4972ms
+2025-12-14 10:53:12.744 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.0351ms
+2025-12-14 10:53:12.744 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=pBC0dQRRnEatblb8lna_oA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - null null
+2025-12-14 10:53:12.745 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:53:12.759 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - null null
+2025-12-14 10:53:12.760 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - 404 0 null 1.0182ms
+2025-12-14 10:53:12.760 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/api/Chat/messages/broadcast, Response status code: 404
+2025-12-14 10:53:31.231 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Index - null null
+2025-12-14 10:53:31.233 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:53:31.233 +07:00 [INF] Route matched with {action = "Index", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:53:31.234 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Index.cshtml.
+2025-12-14 10:53:31.235 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Index.cshtml executed in 1.3335ms.
+2025-12-14 10:53:31.235 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Index (ChatApplication) in 1.7379ms
+2025-12-14 10:53:31.235 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:53:31.235 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Index - 200 null text/html; charset=utf-8 4.1717ms
+2025-12-14 10:53:31.253 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:53:31.253 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=pBC0dQRRnEatblb8lna_oA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - 200 null null 18509.0031ms
+2025-12-14 10:53:31.274 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:53:31.275 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:53:31.275 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:53:31.275 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:53:31.276 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.4145ms
+2025-12-14 10:53:31.276 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:53:31.276 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 1.4419ms
+2025-12-14 10:53:31.281 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.617ms
+2025-12-14 10:53:31.283 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=m_eGcZef4whIzLkP3GkN3w&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - null null
+2025-12-14 10:53:31.283 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:53:31.296 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - null null
+2025-12-14 10:53:31.297 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - 404 0 null 0.7045ms
+2025-12-14 10:53:31.297 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/api/Chat/messages/broadcast, Response status code: 404
+2025-12-14 10:53:37.633 +07:00 [INF] Executed DbCommand (49ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 450), @p4='?' (Size = 50), @p5='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Messages] ([Content], [CreatedAt], [MessageType], [ReceiverId], [RoomName], [SenderId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-12-14 10:53:45.052 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Index - null null
+2025-12-14 10:53:45.056 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:53:45.056 +07:00 [INF] Route matched with {action = "Index", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:53:45.057 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Index.cshtml.
+2025-12-14 10:53:45.057 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Index.cshtml executed in 0.9536ms.
+2025-12-14 10:53:45.058 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Index (ChatApplication) in 1.5563ms
+2025-12-14 10:53:45.058 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:53:45.058 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Index - 200 null text/html; charset=utf-8 5.2136ms
+2025-12-14 10:53:45.115 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:53:45.116 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.3739ms
+2025-12-14 10:53:45.562 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:53:45.567 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.0858ms
+2025-12-14 10:53:45.574 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:53:45.575 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:53:45.575 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:53:45.575 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 1.0764ms
+2025-12-14 10:53:46.436 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=ln2i1D_s_ESpsPoiGMuDvA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - null null
+2025-12-14 10:53:46.437 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:53:46.532 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - null null
+2025-12-14 10:53:46.533 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - 404 0 null 0.777ms
+2025-12-14 10:53:46.533 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/api/Chat/messages/broadcast, Response status code: 404
+2025-12-14 10:53:48.164 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Index - null null
+2025-12-14 10:53:48.167 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:53:48.167 +07:00 [INF] Route matched with {action = "Index", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:53:48.167 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Index.cshtml.
+2025-12-14 10:53:48.168 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Index.cshtml executed in 0.8863ms.
+2025-12-14 10:53:48.169 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Index (ChatApplication) in 1.4226ms
+2025-12-14 10:53:48.169 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Index (ChatApplication)'
+2025-12-14 10:53:48.169 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Index - 200 null text/html; charset=utf-8 4.7929ms
+2025-12-14 10:53:48.188 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:53:48.189 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=ln2i1D_s_ESpsPoiGMuDvA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - 200 null null 1752.906ms
+2025-12-14 10:53:48.207 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:53:48.207 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.2803ms
+2025-12-14 10:53:48.229 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:53:48.234 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.7888ms
+2025-12-14 10:53:48.240 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:53:48.240 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:53:48.241 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:53:48.241 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 0.973ms
+2025-12-14 10:53:48.293 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=baum5HFRGp1RSHLjDdRDJQ&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - null null
+2025-12-14 10:53:48.293 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:53:48.318 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - null null
+2025-12-14 10:53:48.318 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/api/Chat/messages/broadcast - 404 0 null 0.6617ms
+2025-12-14 10:53:48.318 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7264/api/Chat/messages/broadcast, Response status code: 404
+2025-12-14 10:53:51.021 +07:00 [INF] Executed DbCommand (8ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 450), @p4='?' (Size = 50), @p5='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Messages] ([Content], [CreatedAt], [MessageType], [ReceiverId], [RoomName], [SenderId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-12-14 10:53:56.494 +07:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 450), @p4='?' (Size = 50), @p5='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Messages] ([Content], [CreatedAt], [MessageType], [ReceiverId], [RoomName], [SenderId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-12-14 10:54:03.123 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Group - null null
+2025-12-14 10:54:03.125 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Group (ChatApplication)'
+2025-12-14 10:54:03.127 +07:00 [INF] Route matched with {action = "Group", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Group() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:54:03.128 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Group.cshtml.
+2025-12-14 10:54:03.132 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Group.cshtml executed in 3.9491ms.
+2025-12-14 10:54:03.132 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Group (ChatApplication) in 4.5565ms
+2025-12-14 10:54:03.132 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Group (ChatApplication)'
+2025-12-14 10:54:03.132 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Group - 200 null text/html; charset=utf-8 9.0522ms
+2025-12-14 10:54:03.141 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:54:03.141 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=baum5HFRGp1RSHLjDdRDJQ&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - 200 null null 14848.4441ms
+2025-12-14 10:54:03.167 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:54:03.167 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:54:03.168 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.3242ms
+2025-12-14 10:54:03.174 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.3948ms
+2025-12-14 10:54:03.209 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:54:03.210 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:54:03.210 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:54:03.210 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 1.4381ms
+2025-12-14 10:54:03.280 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=GimtDYXOY6ROkjf7G6w0uQ&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - null null
+2025-12-14 10:54:03.281 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:54:11.334 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/chat/messages/room/secret - null null
+2025-12-14 10:54:11.334 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.GetRoomMessages (ChatApplication)'
+2025-12-14 10:54:11.341 +07:00 [INF] Route matched with {action = "GetRoomMessages", controller = "Chat"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[ChatApplication.Models.Message]]] GetRoomMessages(System.String) on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:54:11.441 +07:00 [INF] Executed DbCommand (28ms) [Parameters=[@__roomName_0='?' (Size = 50)], CommandType='"Text"', CommandTimeout='30']
+SELECT [m].[Id], [m].[Content], [m].[CreatedAt], [m].[MessageType], [m].[ReceiverId], [m].[RoomName], [m].[SenderId], [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [Messages] AS [m]
+LEFT JOIN [AspNetUsers] AS [a] ON [m].[SenderId] = [a].[Id]
+WHERE [m].[RoomName] = @__roomName_0 AND [m].[MessageType] = CAST(1 AS tinyint)
+ORDER BY [m].[CreatedAt] DESC
+2025-12-14 10:54:11.442 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ChatApplication.Models.Message, ChatApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-14 10:54:11.468 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.GetRoomMessages (ChatApplication) in 127.3614ms
+2025-12-14 10:54:11.468 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.GetRoomMessages (ChatApplication)'
+2025-12-14 10:54:11.468 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/chat/messages/room/secret - 200 null application/json; charset=utf-8 134.7027ms
+2025-12-14 10:54:20.709 +07:00 [INF] Room secret | nhi | "2025-12-14T10:54:20.7091253+07:00" | hello
+2025-12-14 10:54:20.719 +07:00 [INF] Executed DbCommand (7ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 450), @p4='?' (Size = 50), @p5='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Messages] ([Content], [CreatedAt], [MessageType], [ReceiverId], [RoomName], [SenderId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-12-14 10:54:21.260 +07:00 [INF] Room secret | nhi | "2025-12-14T10:54:21.2607932+07:00" | 
+2025-12-14 10:54:21.265 +07:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 450), @p4='?' (Size = 50), @p5='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Messages] ([Content], [CreatedAt], [MessageType], [ReceiverId], [RoomName], [SenderId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-12-14 10:54:26.796 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Group - null null
+2025-12-14 10:54:26.804 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Group (ChatApplication)'
+2025-12-14 10:54:26.804 +07:00 [INF] Route matched with {action = "Group", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Group() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:54:26.805 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Group.cshtml.
+2025-12-14 10:54:26.806 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Group.cshtml executed in 1.1718ms.
+2025-12-14 10:54:26.806 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Group (ChatApplication) in 1.9075ms
+2025-12-14 10:54:26.806 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Group (ChatApplication)'
+2025-12-14 10:54:26.807 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Group - 200 null text/html; charset=utf-8 10.9571ms
+2025-12-14 10:54:26.822 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:54:26.822 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=m_eGcZef4whIzLkP3GkN3w&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - 200 null null 55539.5972ms
+2025-12-14 10:54:26.849 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:54:26.850 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.3389ms
+2025-12-14 10:54:26.850 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:54:26.856 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.2869ms
+2025-12-14 10:54:26.863 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:54:26.864 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:54:26.864 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:54:26.864 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 1.098ms
+2025-12-14 10:54:26.879 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=fBXpfcJgzOMGGpA7Kw80Hg&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - null null
+2025-12-14 10:54:26.880 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:54:42.136 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/chat/messages/room/secret - null null
+2025-12-14 10:54:42.137 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.GetRoomMessages (ChatApplication)'
+2025-12-14 10:54:42.138 +07:00 [INF] Route matched with {action = "GetRoomMessages", controller = "Chat"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[ChatApplication.Models.Message]]] GetRoomMessages(System.String) on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:54:42.149 +07:00 [INF] Executed DbCommand (9ms) [Parameters=[@__roomName_0='?' (Size = 50)], CommandType='"Text"', CommandTimeout='30']
+SELECT [m].[Id], [m].[Content], [m].[CreatedAt], [m].[MessageType], [m].[ReceiverId], [m].[RoomName], [m].[SenderId], [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [Messages] AS [m]
+LEFT JOIN [AspNetUsers] AS [a] ON [m].[SenderId] = [a].[Id]
+WHERE [m].[RoomName] = @__roomName_0 AND [m].[MessageType] = CAST(1 AS tinyint)
+ORDER BY [m].[CreatedAt] DESC
+2025-12-14 10:54:42.163 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ChatApplication.Models.Message, ChatApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-14 10:54:42.174 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.GetRoomMessages (ChatApplication) in 36.3834ms
+2025-12-14 10:54:42.174 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.GetRoomMessages (ChatApplication)'
+2025-12-14 10:54:42.174 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/chat/messages/room/secret - 200 null application/json; charset=utf-8 38.8167ms
+2025-12-14 10:54:51.781 +07:00 [INF] Room secret | nhi2 | "2025-12-14T10:54:51.7815001+07:00" | chèo
+2025-12-14 10:54:51.784 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 450), @p4='?' (Size = 50), @p5='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Messages] ([Content], [CreatedAt], [MessageType], [ReceiverId], [RoomName], [SenderId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-12-14 10:54:59.628 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Private - null null
+2025-12-14 10:54:59.631 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Private (ChatApplication)'
+2025-12-14 10:54:59.633 +07:00 [INF] Route matched with {action = "Private", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Private() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:54:59.635 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Private.cshtml.
+2025-12-14 10:54:59.642 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Private.cshtml executed in 8.0858ms.
+2025-12-14 10:54:59.642 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Private (ChatApplication) in 8.9066ms
+2025-12-14 10:54:59.643 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Private (ChatApplication)'
+2025-12-14 10:54:59.643 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Private - 200 null text/html; charset=utf-8 14.9482ms
+2025-12-14 10:54:59.654 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:54:59.654 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=GimtDYXOY6ROkjf7G6w0uQ&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - 200 null null 56374.0059ms
+2025-12-14 10:54:59.681 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:54:59.681 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:54:59.681 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.3058ms
+2025-12-14 10:54:59.685 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.7909ms
+2025-12-14 10:54:59.726 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:54:59.727 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:54:59.727 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:54:59.727 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 0.8699ms
+2025-12-14 10:54:59.808 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=GGv2bk_Yb9cpsOfU2PCeXA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - null null
+2025-12-14 10:54:59.809 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:55:13.512 +07:00 [INF] Executed DbCommand (9ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-12-14 10:55:13.525 +07:00 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 450), @p4='?' (Size = 50), @p5='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Messages] ([Content], [CreatedAt], [MessageType], [ReceiverId], [RoomName], [SenderId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-12-14 10:55:24.637 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Private - null null
+2025-12-14 10:55:24.640 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Private (ChatApplication)'
+2025-12-14 10:55:24.640 +07:00 [INF] Route matched with {action = "Private", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Private() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:55:24.640 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Private.cshtml.
+2025-12-14 10:55:24.642 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Private.cshtml executed in 1.3811ms.
+2025-12-14 10:55:24.642 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Private (ChatApplication) in 1.8992ms
+2025-12-14 10:55:24.642 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Private (ChatApplication)'
+2025-12-14 10:55:24.642 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Private - 200 null text/html; charset=utf-8 4.5538ms
+2025-12-14 10:55:24.655 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:55:24.655 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=fBXpfcJgzOMGGpA7Kw80Hg&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - 200 null null 57775.9069ms
+2025-12-14 10:55:24.690 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:55:24.691 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:55:24.691 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:55:24.691 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:55:24.691 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.2769ms
+2025-12-14 10:55:24.692 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:55:24.692 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 0.9324ms
+2025-12-14 10:55:24.696 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.5705ms
+2025-12-14 10:55:24.698 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=iekZhAq72wGQnVqlxEfu6w&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - null null
+2025-12-14 10:55:24.699 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:55:39.248 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/chat/messages/private?receiver=nhi2 - null null
+2025-12-14 10:55:39.249 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication)'
+2025-12-14 10:55:39.254 +07:00 [INF] Route matched with {action = "GetPrivateMessages", controller = "Chat"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrivateMessages(System.String) on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:55:39.273 +07:00 [INF] Executed DbCommand (5ms) [Parameters=[@__receiver_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[UserName] = @__receiver_0
+2025-12-14 10:55:39.308 +07:00 [INF] Executed DbCommand (10ms) [Parameters=[@__userId1_0='?' (Size = 450), @__userId2_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [m].[Id], [m].[Content], [m].[CreatedAt], [m].[MessageType], [m].[ReceiverId], [m].[RoomName], [m].[SenderId], [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a0].[Id], [a0].[AccessFailedCount], [a0].[ConcurrencyStamp], [a0].[Email], [a0].[EmailConfirmed], [a0].[LockoutEnabled], [a0].[LockoutEnd], [a0].[NormalizedEmail], [a0].[NormalizedUserName], [a0].[PasswordHash], [a0].[PhoneNumber], [a0].[PhoneNumberConfirmed], [a0].[SecurityStamp], [a0].[TwoFactorEnabled], [a0].[UserName]
+FROM [Messages] AS [m]
+LEFT JOIN [AspNetUsers] AS [a] ON [m].[SenderId] = [a].[Id]
+LEFT JOIN [AspNetUsers] AS [a0] ON [m].[ReceiverId] = [a0].[Id]
+WHERE [m].[MessageType] = CAST(2 AS tinyint) AND (([m].[SenderId] = @__userId1_0 AND [m].[ReceiverId] = @__userId2_1) OR ([m].[SenderId] = @__userId2_1 AND [m].[ReceiverId] = @__userId1_0))
+ORDER BY [m].[CreatedAt] DESC
+2025-12-14 10:55:39.309 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ChatApplication.Models.Message, ChatApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[<>f__AnonymousType2`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], ChatApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-14 10:55:39.313 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication) in 58.081ms
+2025-12-14 10:55:39.313 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication)'
+2025-12-14 10:55:39.313 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/chat/messages/private?receiver=nhi2 - 200 null application/json; charset=utf-8 64.3182ms
+2025-12-14 10:55:41.997 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/chat/messages/private?receiver=nhi2 - null null
+2025-12-14 10:55:41.997 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication)'
+2025-12-14 10:55:41.997 +07:00 [INF] Route matched with {action = "GetPrivateMessages", controller = "Chat"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrivateMessages(System.String) on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:55:42.001 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__receiver_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[UserName] = @__receiver_0
+2025-12-14 10:55:42.004 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__userId1_0='?' (Size = 450), @__userId2_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [m].[Id], [m].[Content], [m].[CreatedAt], [m].[MessageType], [m].[ReceiverId], [m].[RoomName], [m].[SenderId], [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a0].[Id], [a0].[AccessFailedCount], [a0].[ConcurrencyStamp], [a0].[Email], [a0].[EmailConfirmed], [a0].[LockoutEnabled], [a0].[LockoutEnd], [a0].[NormalizedEmail], [a0].[NormalizedUserName], [a0].[PasswordHash], [a0].[PhoneNumber], [a0].[PhoneNumberConfirmed], [a0].[SecurityStamp], [a0].[TwoFactorEnabled], [a0].[UserName]
+FROM [Messages] AS [m]
+LEFT JOIN [AspNetUsers] AS [a] ON [m].[SenderId] = [a].[Id]
+LEFT JOIN [AspNetUsers] AS [a0] ON [m].[ReceiverId] = [a0].[Id]
+WHERE [m].[MessageType] = CAST(2 AS tinyint) AND (([m].[SenderId] = @__userId1_0 AND [m].[ReceiverId] = @__userId2_1) OR ([m].[SenderId] = @__userId2_1 AND [m].[ReceiverId] = @__userId1_0))
+ORDER BY [m].[CreatedAt] DESC
+2025-12-14 10:55:42.005 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ChatApplication.Models.Message, ChatApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[<>f__AnonymousType2`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], ChatApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-14 10:55:42.005 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication) in 7.401ms
+2025-12-14 10:55:42.005 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication)'
+2025-12-14 10:55:42.005 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/chat/messages/private?receiver=nhi2 - 200 null application/json; charset=utf-8 8.3581ms
+2025-12-14 10:55:43.781 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/chat/messages/private?receiver=nhi2 - null null
+2025-12-14 10:55:43.781 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication)'
+2025-12-14 10:55:43.781 +07:00 [INF] Route matched with {action = "GetPrivateMessages", controller = "Chat"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrivateMessages(System.String) on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:55:43.784 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__receiver_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[UserName] = @__receiver_0
+2025-12-14 10:55:43.786 +07:00 [INF] Executed DbCommand (1ms) [Parameters=[@__userId1_0='?' (Size = 450), @__userId2_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [m].[Id], [m].[Content], [m].[CreatedAt], [m].[MessageType], [m].[ReceiverId], [m].[RoomName], [m].[SenderId], [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a0].[Id], [a0].[AccessFailedCount], [a0].[ConcurrencyStamp], [a0].[Email], [a0].[EmailConfirmed], [a0].[LockoutEnabled], [a0].[LockoutEnd], [a0].[NormalizedEmail], [a0].[NormalizedUserName], [a0].[PasswordHash], [a0].[PhoneNumber], [a0].[PhoneNumberConfirmed], [a0].[SecurityStamp], [a0].[TwoFactorEnabled], [a0].[UserName]
+FROM [Messages] AS [m]
+LEFT JOIN [AspNetUsers] AS [a] ON [m].[SenderId] = [a].[Id]
+LEFT JOIN [AspNetUsers] AS [a0] ON [m].[ReceiverId] = [a0].[Id]
+WHERE [m].[MessageType] = CAST(2 AS tinyint) AND (([m].[SenderId] = @__userId1_0 AND [m].[ReceiverId] = @__userId2_1) OR ([m].[SenderId] = @__userId2_1 AND [m].[ReceiverId] = @__userId1_0))
+ORDER BY [m].[CreatedAt] DESC
+2025-12-14 10:55:43.786 +07:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[ChatApplication.Models.Message, ChatApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[<>f__AnonymousType2`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], ChatApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-14 10:55:43.786 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication) in 4.903ms
+2025-12-14 10:55:43.786 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.GetPrivateMessages (ChatApplication)'
+2025-12-14 10:55:43.787 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/chat/messages/private?receiver=nhi2 - 200 null application/json; charset=utf-8 5.7115ms
+2025-12-14 10:55:57.244 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Private - null null
+2025-12-14 10:55:57.246 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Private (ChatApplication)'
+2025-12-14 10:55:57.246 +07:00 [INF] Route matched with {action = "Private", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Private() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:55:57.247 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Private.cshtml.
+2025-12-14 10:55:57.248 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Private.cshtml executed in 0.8846ms.
+2025-12-14 10:55:57.248 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Private (ChatApplication) in 1.2445ms
+2025-12-14 10:55:57.248 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Private (ChatApplication)'
+2025-12-14 10:55:57.248 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Private - 200 null text/html; charset=utf-8 3.4672ms
+2025-12-14 10:55:57.256 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:55:57.257 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=iekZhAq72wGQnVqlxEfu6w&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - 200 null null 32558.6249ms
+2025-12-14 10:55:57.276 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:55:57.278 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:55:57.278 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:55:57.278 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 1.4798ms
+2025-12-14 10:55:57.278 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:55:57.278 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:55:57.278 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.2203ms
+2025-12-14 10:55:57.283 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.8925ms
+2025-12-14 10:55:57.294 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=AYoBcF_3WZ0UZk65eYHdPQ&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - null null
+2025-12-14 10:55:57.294 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:56:15.799 +07:00 [INF] Executed DbCommand (8ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-12-14 10:56:15.806 +07:00 [INF] Executed DbCommand (6ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 450), @p4='?' (Size = 50), @p5='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Messages] ([Content], [CreatedAt], [MessageType], [ReceiverId], [RoomName], [SenderId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-12-14 10:56:22.576 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/Chat/Group - null null
+2025-12-14 10:56:22.578 +07:00 [INF] Executing endpoint 'ChatApplication.Controllers.ChatController.Group (ChatApplication)'
+2025-12-14 10:56:22.579 +07:00 [INF] Route matched with {action = "Group", controller = "Chat"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Group() on controller ChatApplication.Controllers.ChatController (ChatApplication).
+2025-12-14 10:56:22.579 +07:00 [INF] Executing ViewResult, running view ~/Views/Chat/Group.cshtml.
+2025-12-14 10:56:22.580 +07:00 [INF] Executed ViewResult - view ~/Views/Chat/Group.cshtml executed in 0.8688ms.
+2025-12-14 10:56:22.580 +07:00 [INF] Executed action ChatApplication.Controllers.ChatController.Group (ChatApplication) in 1.3724ms
+2025-12-14 10:56:22.580 +07:00 [INF] Executed endpoint 'ChatApplication.Controllers.ChatController.Group (ChatApplication)'
+2025-12-14 10:56:22.580 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/Chat/Group - 200 null text/html; charset=utf-8 4.1141ms
+2025-12-14 10:56:22.592 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:56:22.592 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=AYoBcF_3WZ0UZk65eYHdPQ&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - 200 null null 25297.9566ms
+2025-12-14 10:56:22.637 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - null 0
+2025-12-14 10:56:22.637 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_vs/browserLink - null null
+2025-12-14 10:56:22.638 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - null null
+2025-12-14 10:56:22.638 +07:00 [INF] Executing endpoint '/chathub/negotiate'
+2025-12-14 10:56:22.638 +07:00 [INF] Executed endpoint '/chathub/negotiate'
+2025-12-14 10:56:22.638 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 0.3796ms
+2025-12-14 10:56:22.638 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7264/chatHub/negotiate?negotiateVersion=1 - 200 316 application/json 0.8499ms
+2025-12-14 10:56:22.643 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7264/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.2495ms
+2025-12-14 10:56:22.644 +07:00 [INF] Request starting HTTP/2 CONNECT https://localhost:7264/chatHub?id=ZicBo3fkXhro2vecU0JA8A&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - null null
+2025-12-14 10:56:22.645 +07:00 [INF] Executing endpoint '/chathub'
+2025-12-14 10:56:36.028 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:56:36.028 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=ZicBo3fkXhro2vecU0JA8A&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImI4NzZmMmVkLWMxMzQtNDU2My05NmNlLWE3MzBiNTI3MzBhMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoibmhpMkBsb2NhbC5hcHAiLCJleHAiOjE3NjU2ODYxOTIsImlzcyI6IkNoYXRBcHBsaWNhdGlvbi5jb20iLCJhdWQiOiJDaGF0QXBwbGljYXRpb24uY29tIn0.btzevkmvCUjdNG3O0r02q2VWJsohAPaWl5HXH-CEGtw - 200 null null 13383.772ms
+2025-12-14 10:56:50.348 +07:00 [INF] Executed endpoint '/chathub'
+2025-12-14 10:56:50.348 +07:00 [INF] Request finished HTTP/2 CONNECT https://localhost:7264/chatHub?id=GGv2bk_Yb9cpsOfU2PCeXA&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRjMGNhZjUzLTM4ZGMtNDdjOC04NjY4LWFkNTNhZjgyNzYxOCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJuaGkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJuaGlAbG9jYWwuYXBwIiwiZXhwIjoxNzY1Njg2MDM4LCJpc3MiOiJDaGF0QXBwbGljYXRpb24uY29tIiwiYXVkIjoiQ2hhdEFwcGxpY2F0aW9uLmNvbSJ9.HlEMq7vPT8hpLElbQMUvvkAWNIEpflBx1UgJ7KmNYc8 - 200 null null 110539.8824ms

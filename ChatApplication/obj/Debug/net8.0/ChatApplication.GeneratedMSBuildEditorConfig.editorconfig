@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChatApplication
+build_property.RootNamespace = ChatApplication
+build_property.ProjectDir = C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hanie\OneDrive\Desktop\Ky-thuat-phan-mem\CSW-306-Backend\ChatApplication
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Controllers/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcVmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Controllers/Views/Chat/Group.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcVmlld3NcQ2hhdFxHcm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Controllers/Views/Chat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcVmlld3NcQ2hhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Controllers/Views/Chat/Private.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcVmlld3NcQ2hhdFxQcml2YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Controllers/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Controllers/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Controllers/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Views/Chat/Group.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxHcm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Views/Chat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Views/Chat/Private.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxQcml2YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanie/OneDrive/Desktop/Ky-thuat-phan-mem/CSW-306-Backend/ChatApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

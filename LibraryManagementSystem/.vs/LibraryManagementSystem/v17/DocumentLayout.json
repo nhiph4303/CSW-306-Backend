@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\dto\\topborrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\dto\\topborrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\dto\\useractivatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\dto\\useractivatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\dto\\carouseldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\dto\\carouseldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\controllers\\carouselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\carouselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\models\\carousel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:models\\carousel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|c:\\users\\hanie\\onedrive\\desktop\\ky-thuat-phan-mem\\csw-306-backend\\librarymanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2192DA45-38F7-400A-B8BD-37F03E6035A6}|LibraryManagementSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:16:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:10:43.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "Data\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:10:15.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAxwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:37:34.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserActivateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\UserActivateDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTO\\UserActivateDto.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\UserActivateDto.cs",
+              "RelativeToolTip": "Data\\DTO\\UserActivateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:34:40.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:41:13.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopBorrowedBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\TopBorrowedBookDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTO\\TopBorrowedBookDto.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\TopBorrowedBookDto.cs",
+              "RelativeToolTip": "Data\\DTO\\TopBorrowedBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:16:13.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTO\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\UserRegisterDto.cs",
+              "RelativeToolTip": "Data\\DTO\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:34:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "Controllers\\LoansController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:10:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoanDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\LoanDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTO\\LoanDto.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\LoanDto.cs",
+              "RelativeToolTip": "Data\\DTO\\LoanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:10:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:33:30.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Helpers\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:37:06.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTO\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\AuthorDto.cs",
+              "RelativeToolTip": "Data\\DTO\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:54:02.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:33:09.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:45:00.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:54:47.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Carousel.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Carousel.cs",
+              "RelativeDocumentMoniker": "Models\\Carousel.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Carousel.cs",
+              "RelativeToolTip": "Models\\Carousel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:18:02.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:16:50.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\Loan.cs",
+              "RelativeToolTip": "Models\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:33:46.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:33:59.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\BookDto.cs",
+              "RelativeToolTip": "Data\\DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:40:07.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarouselDto.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\CarouselDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTO\\CarouselDto.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\DTO\\CarouselDto.cs",
+              "RelativeToolTip": "Data\\DTO\\CarouselDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:16:27.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:34:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarouselController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\CarouselController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarouselController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\CarouselController.cs",
+              "RelativeToolTip": "Controllers\\CarouselController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:09:01.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T12:45:04.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T12:51:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\LibraryManagementSystem\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:44:54.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

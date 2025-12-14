@@ -1,0 +1,172 @@
+﻿@{
+    ViewData["Title"] = "Private Chat";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header bg-warning text-dark">
+                <h5>Private Chat</h5>
+                <span id="userBadge" class="badge bg-light text-dark"></span>
+            </div>
+            <div class="card-body" id="chatBox" style="height: 400px; overflow-y: auto;">
+                <ul id="messagesList" class="list-unstyled"></ul>
+            </div>
+            <div class="card-footer">
+                <div class="row mb-2">
+                    <div class="col-md-6">
+                        <div>You</div>
+                    </div>
+                </div>
+                <div class="row mb-2">
+                    <div class="col-md-9">
+                        <input type="text" id="receiverInput" class="form-control" placeholder="Receiver name" />
+                    </div>
+                    <div class="col-md-3">
+                        <button id="viewHistoryButton" class="btn btn-secondary w-100">View History</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-10">
+                        <input type="text" id="messageInput" class="form-control" placeholder="Type a message..." />
+                    </div>
+                    <div class="col-md-2">
+                        <button id="sendButton" class="btn btn-primary w-100">Send</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card mb-3">
+            <div class="card-header bg-success text-white">
+                <h5>Online Users</h5>
+            </div>
+            <div class="card-body">
+                <ul id="onlineUsers" class="list-group"></ul>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header bg-info text-white">
+                <h5>Navigation</h5>
+            </div>
+            <div class="card-body">
+                <a href="/Chat/Index" class="btn btn-outline-primary btn-block mb-2 w-100">Broadcast Chat</a>
+                <a href="/Chat/Group" class="btn btn-outline-success btn-block mb-2 w-100">Group Chat</a>
+                <a href="/Chat/Private" class="btn btn-outline-warning btn-block w-100">Private Chat</a>
+            </div>
+        </div>
+        <a href="#" id="logoutButton" class="btn btn-outline-danger btn-block w-100">Logout</a>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"></script>
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/chatHub", {
+                accessTokenFactory: () => localStorage.getItem("jwt")
+            })
+            .build();
+
+        const token = localStorage.getItem("jwt");
+        if (!token) {
+            console.log("No token found — redirecting to login");
+            window.location.href = "/Account/Login";
+        } else {
+            connection.start().then(async function () {
+                console.log("Connected to chat hub");
+                const activeUsers = await connection.invoke("GetActiveUsers");
+
+                const userList = document.getElementById("onlineUsers");
+                userList.innerHTML = "";
+                activeUsers.forEach(user => {
+                    const li = document.createElement("li");
+                    li.textContent = user;
+                    userList.appendChild(li);
+                });
+                    }).catch(err => {
+                        console.error("Connection failed:", err);
+                    });
+        }
+
+        let currentUser = null;
+
+        connection.on("ReceivePrivateMessage", function (sender, message, time) {
+            const li = document.createElement("li");
+            li.className = "mb-2 p-2";
+            li.innerHTML = `<strong>${sender}</strong> <small class="text-muted">(${time})</small>: ${message}`;
+            document.getElementById("messagesList").appendChild(li);
+
+            const chatBox = document.getElementById("chatBox");
+            chatBox.scrollTop = chatBox.scrollHeight;
+        });
+
+                document.getElementById("viewHistoryButton").addEventListener("click", async function () {
+            const receiver = document.getElementById("receiverInput").value;
+            if (!receiver) {
+                alert("Please enter a receiver name first.");
+                return;
+            }
+
+            try {
+                const response = await fetch(`/chat/messages/private?receiver=${encodeURIComponent(receiver)}`, {
+                    headers: {
+                        "Authorization": "Bearer " + localStorage.getItem("jwt")
+                    }
+                });
+                const messages = await response.json();
+
+                const list = document.getElementById("messagesList");
+                list.innerHTML = "";
+                messages.forEach(msg => {
+                    const li = document.createElement("li");
+                    li.className = msg.senderName === "You" ? "mb-2 p-2 text-end" : "mb-2 p-2";
+                    const time = new Date(msg.createdAt).toLocaleTimeString();
+                    li.innerHTML = `<strong>${msg.senderName}</strong> <small class="text-muted">(${time})</small>: ${msg.content}`;
+                    list.appendChild(li);
+                });
+
+                const chatBox = document.getElementById("chatBox");
+                chatBox.scrollTop = chatBox.scrollHeight;
+            } catch (err) {
+                console.error("Error loading private history:", err);
+            }
+        });
+
+
+        document.getElementById("sendButton").addEventListener("click", async function () {
+            const receiver = document.getElementById("receiverInput").value;
+            const message = document.getElementById("messageInput").value;
+
+            connection.invoke("SendPrivateMessage", receiver, message).catch(function (err) {
+                return console.error(err.toString());
+            });
+
+            const li = document.createElement("li");
+            li.className = "mb-2 p-2 text-end";
+            const time = new Date().toLocaleTimeString();
+            li.innerHTML = `<strong>You</strong> <small class="text-muted">(${time})</small>: ${message}`;
+
+            document.getElementById("messageInput").value = "";
+        });
+
+        document.getElementById("logoutButton").addEventListener("click", function (event) {
+            event.preventDefault();
+
+            localStorage.removeItem("jwt");
+
+            if (connection) {
+            connection.stop();
+            }
+
+            window.location.href = "/Account/Login";
+            });
+    </script>
+}
+
+
+
+

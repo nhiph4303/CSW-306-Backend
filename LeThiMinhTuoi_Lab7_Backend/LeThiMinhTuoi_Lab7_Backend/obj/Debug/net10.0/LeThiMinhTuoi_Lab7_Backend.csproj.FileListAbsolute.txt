@@ -1,0 +1,8 @@
+F:\Backend\LeThiMinhTuoi_Lab7_Backend\obj\Debug\net10.0\LeThiMinhTuoi_Lab7_Backend.csproj.AssemblyReference.cache
+F:\Backend\LeThiMinhTuoi_Lab7_Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\Backend\LeThiMinhTuoi_Lab7_Backend\obj\Debug\net10.0\LeThiMinhTuoi_Lab7_Backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend\LeThiMinhTuoi_Lab7_Backend\obj\Debug\net10.0\LeThiMinhTuoi_Lab7_Backend.AssemblyInfoInputs.cache
+F:\Backend\LeThiMinhTuoi_Lab7_Backend\obj\Debug\net10.0\LeThiMinhTuoi_Lab7_Backend.AssemblyInfo.cs
+F:\Backend\LeThiMinhTuoi_Lab7_Backend\obj\Debug\net10.0\LeThiMinhTuoi_Lab7_Backend.csproj.CoreCompileInputs.cache
+F:\Backend\LeThiMinhTuoi_Lab7_Backend\obj\Debug\net10.0\LeThiMinhTuoi_Lab7_Backend.MvcApplicationPartsAssemblyInfo.cs
+F:\Backend\LeThiMinhTuoi_Lab7_Backend\obj\Debug\net10.0\LeThiMinhTuoi_Lab7_Backend.MvcApplicationPartsAssemblyInfo.cache

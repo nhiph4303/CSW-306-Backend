@@ -1,0 +1,6 @@
+wwwroot\book_images\avt_.jpg
+wwwroot\book_pdf\holw.pdf
+wwwroot\carousel_images\image1.jpg
+wwwroot\carousel_images\image2.jpg
+wwwroot\carousel_images\image3.jpg
+wwwroot\category_images\avt_.jpg
