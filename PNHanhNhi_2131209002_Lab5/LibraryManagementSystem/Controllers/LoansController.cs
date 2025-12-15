@@ -1,7 +1,10 @@
 ﻿using LibraryManagementSytem.Data;
 using LibraryManagementSytem.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
 
 namespace LibraryManagementSytem.Controllers;
 
@@ -57,6 +60,34 @@ public class LoansController : ControllerBase
             })
             .ToListAsync();
 
+        return Ok(loans);
+    }
+
+    [Authorize(Policy = "MinimumMembership")]
+    [HttpGet("history")]
+    public async Task<IActionResult> GetLoanHistory()
+    {
+        var userIdClaim = User.FindFirst(JwtRegisteredClaimNames.Sub);
+        if (userIdClaim == null)
+            return Unauthorized();
+
+
+        var loans = await _context.Loans
+            .AsNoTracking()
+            .Include(l => l.Book)
+            .Where(l => l.UserId == int.Parse(userIdClaim.Value))
+            .OrderByDescending(l => l.LoanDate)
+            .Select(l => new
+            {
+                l.LoanId,
+                l.BookId,
+                BookTitle = l.Book.Title,
+                l.LoanDate,
+                l.DueDate,
+                l.ReturnDate,
+                l.Status
+            })
+            .ToListAsync();
         return Ok(loans);
     }
 

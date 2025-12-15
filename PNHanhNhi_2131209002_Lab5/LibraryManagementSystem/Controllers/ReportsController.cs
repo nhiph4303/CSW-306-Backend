@@ -1,4 +1,5 @@
 ﻿using LibraryManagementSytem.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,6 +17,7 @@ public class ReportsController : ControllerBase
     }
 
     // GET /api/reports/top-borrowed?fromDate=...&toDate=...&top=10
+    [Authorize(Policy = "AdminOrLibrarian")]
     [HttpGet("top-borrowed")]
     public async Task<IActionResult> GetTopBorrowedBooks(
         DateTime? fromDate,

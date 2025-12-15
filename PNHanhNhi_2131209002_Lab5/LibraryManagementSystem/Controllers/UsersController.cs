@@ -1,7 +1,9 @@
 ﻿using LibraryManagementSytem.Data;
 using LibraryManagementSytem.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Claims;
 
 namespace LibraryManagementSytem.Controllers;
 
@@ -83,5 +85,21 @@ public class UsersController : ControllerBase
         await _context.SaveChangesAsync();
 
         return Ok(new { message = "Account activated successfully!" });
+    }
+
+    [HttpGet("me")]
+    [Authorize]
+    public async Task<IActionResult> GetMe()
+    {
+        var username = User.Identity?.Name;
+        var role = User.FindFirst(ClaimTypes.Role)?.Value;
+        return Ok(new { username, role });
+    }
+
+    [Authorize(Policy = "ActiveUserOnly")]
+    [HttpGet("active-user")]
+    public IActionResult GetActiveUserContent()
+    {
+        return Ok("This content is only for active users.");
     }
 }

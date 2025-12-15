@@ -1,5 +1,6 @@
 ﻿using LibraryManagementSytem.Data;
 using LibraryManagementSytem.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -327,5 +328,12 @@ public class BooksController : ControllerBase
             pdfUrl = fullUrl,
             message = "PDF available."
         });
+    }
+
+    [Authorize(Policy = "VerifiedEmailOnly")]
+    [HttpPost("uploads")]
+    public async Task<IActionResult> UploadFiles()
+    { 
+        return Ok("This is for upload files");
     }
 }

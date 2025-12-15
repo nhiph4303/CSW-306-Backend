@@ -1,4 +1,5 @@
-﻿using LibraryManagementSytem.Models;
+﻿using LibraryManagementSystem.Models;
+using LibraryManagementSytem.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace LibraryManagementSytem.Data;
@@ -16,7 +17,7 @@ public class LibraryDbContext : DbContext
     public DbSet<Category> Categories => Set<Category>();
     public DbSet<Loan> Loans => Set<Loan>();
     public DbSet<Carousel> Carousels => Set<Carousel>();
-
+    public DbSet<Role> Roles => Set<Role>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -45,5 +46,11 @@ public class LibraryDbContext : DbContext
             .HasOne(b => b.Category)
             .WithMany(c => c.Books)
             .HasForeignKey(b => b.CategoryId);
+
+        // Quan hệ n-n: Users – Roles
+        modelBuilder.Entity<User>()
+            .HasMany(e => e.Roles)
+            .WithMany(e => e.Users)
+            .UsingEntity("UserRole");
     }
 }

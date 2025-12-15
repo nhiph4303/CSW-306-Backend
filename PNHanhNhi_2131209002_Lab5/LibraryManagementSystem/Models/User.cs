@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LibraryManagementSystem.Models;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -16,6 +17,9 @@ public class User
     public string? Description { get; set; }
 
     [Required]
+    public string Username { get; set; } = null!;
+
+    [Required]
     public string Password { get; set; } = null!;
 
     [Required, EmailAddress, StringLength(100)]
@@ -26,19 +30,23 @@ public class User
 
     public string? Address { get; set; }
 
-    public int Status { get; set; }
+    public int Status { get; set; } = 1; // e.g., 0 = inactive, 1 = active, 2 = banned
 
-    public DateTime CreatedDate { get; set; }
+    public DateTime CreatedDate { get; set; } = DateTime.Now;
 
     public string? UserCode { get; set; }
 
-    public bool IsLocked { get; set; }
-    public bool IsDeleted { get; set; }
-    public bool IsActive { get; set; }
+    public bool IsLocked { get; set; } = false;
+    public bool IsDeleted { get; set; } = false;
+    public bool IsActive { get; set; } = false;
+
+    public bool EmailConfirmed { get; set; } = false;
 
     public string? ActiveCode { get; set; }
     public string? Avatar { get; set; }
 
     // Navigation
-    public ICollection<Loan> Loans { get; set; } = new List<Loan>();
+    public ICollection<Loan> Loans { get; set; } = [];
+
+    public ICollection<Role> Roles { get; } = [];
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab4\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
+    "C:\\Users\\thien\\Downloads\\PNHanhNhi_2131209002_Lab5\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab4\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
+    "C:\\Users\\thien\\Downloads\\PNHanhNhi_2131209002_Lab5\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab4\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\thien\\Downloads\\PNHanhNhi_2131209002_Lab5\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "projectName": "LibraryManagementSystem",
-        "projectPath": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab4\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\hanie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hanie\\OneDrive\\Desktop\\Ky-thuat-phan-mem\\CSW-306-Backend\\PNHanhNhi_2131209002_Lab4\\LibraryManagementSystem\\obj\\",
+        "projectPath": "C:\\Users\\thien\\Downloads\\PNHanhNhi_2131209002_Lab5\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\thien\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thien\\Downloads\\PNHanhNhi_2131209002_Lab5\\LibraryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hanie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thien\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,12 +44,16 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.22, )"
@@ -89,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

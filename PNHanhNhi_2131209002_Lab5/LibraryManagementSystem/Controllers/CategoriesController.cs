@@ -1,10 +1,12 @@
 ﻿using LibraryManagementSytem.Data;
 using LibraryManagementSytem.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace LibraryManagementSytem.Controllers;
 
+[Authorize(Policy = "CanManageCategories")]
 [ApiController]
 [Route("api/[controller]")]
 public class CategoriesController : ControllerBase
